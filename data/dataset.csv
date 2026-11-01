@@ -1,0 +1,41 @@
+customer_id,tenure_months,monthly_charges,contract,internet_service,churn
+4001,1,25,Month-to-month,DSL,Yes
+4002,2,27,One year,Fiber optic,No
+4003,3,29,Two year,No,No
+4004,4,31,Month-to-month,DSL,No
+4005,5,33,One year,Fiber optic,Yes
+4006,6,35,Two year,No,No
+4007,7,37,Month-to-month,DSL,No
+4008,8,39,One year,Fiber optic,No
+4009,9,41,Two year,No,Yes
+4010,10,43,Month-to-month,DSL,No
+4011,11,45,One year,Fiber optic,No
+4012,12,47,Two year,No,No
+4013,13,49,Month-to-month,DSL,Yes
+4014,14,51,One year,Fiber optic,No
+4015,15,53,Two year,No,No
+4016,16,55,Month-to-month,DSL,No
+4017,17,57,One year,Fiber optic,Yes
+4018,18,59,Two year,No,No
+4019,19,61,Month-to-month,DSL,No
+4020,20,63,One year,Fiber optic,No
+4021,21,65,Two year,No,Yes
+4022,22,67,Month-to-month,DSL,No
+4023,23,69,One year,Fiber optic,No
+4024,24,71,Two year,No,No
+4025,25,73,Month-to-month,DSL,Yes
+4026,26,75,One year,Fiber optic,No
+4027,27,77,Two year,No,No
+4028,28,79,Month-to-month,DSL,No
+4029,29,81,One year,Fiber optic,Yes
+4030,30,83,Two year,No,No
+4031,31,85,Month-to-month,DSL,No
+4032,32,87,One year,Fiber optic,No
+4033,33,89,Two year,No,Yes
+4034,34,91,Month-to-month,DSL,No
+4035,35,93,One year,Fiber optic,No
+4036,36,95,Two year,No,No
+4037,37,97,Month-to-month,DSL,Yes
+4038,38,99,One year,Fiber optic,No
+4039,39,101,Two year,No,No
+4040,40,103,Month-to-month,DSL,No
